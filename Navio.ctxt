@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Navio()
+comment0.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ Navio\r\n
+comment1.params=
+comment1.target=void\ setNavio()
+comment1.text=\r\n\ Coloca\ Navio\ no\ tabuleiro\r\n
+comment2.params=
+comment2.target=int\ getNd()
+comment3.params=n
+comment3.target=int\ getNavio(int)
+numComments=4

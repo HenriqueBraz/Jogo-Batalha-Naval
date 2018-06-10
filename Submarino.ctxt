@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Submarino()
+comment0.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Submarino\r\n
+comment1.params=
+comment1.target=void\ setSub()
+comment1.text=\r\n\ Coloca\ Submarino4\ no\ tabuleiro\r\n
+comment2.params=n
+comment2.target=int\ getSub(int)
+numComments=3
